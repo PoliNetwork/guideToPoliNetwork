@@ -1,2 +1,2 @@
-# guideToPolinetwork
-con la n minuscola
+# guideToPoliNetwork
+
