@@ -1,4 +1,4 @@
-## guideToPoliNetwork
+## guideToPolinetwork
 
 
 ### Cos'è PoliNetwork
