@@ -22,11 +22,10 @@ Il target delle informazioni fornite da PoliNetwork riflette il carattere delle 
 -progetti e associazioni studenti
 -indicazioni per residenti all'estero e studenti stranieri.
 
-Le informazioni sono facilmente reperibili sul sito ufficiale www.
-Le risposte alle domande più frequenti sono disponibili all'indirizzo www Faq di Eupilino
+Le informazioni sono facilmente reperibili sul sito ufficiale https://polinetwork.org
+Le risposte alle domande più frequenti sono disponibili all'indirizzo https://polinetwork.org/faq/
 
 
 ### Come contattarci
 
-Indirizzo di posta ufficiale:
-Rappresentanti Admin:
+https://polinetwork.org/learnmore/contacts/
